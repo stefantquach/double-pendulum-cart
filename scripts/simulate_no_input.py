@@ -7,7 +7,7 @@ from plotting import animate_state, cart_H, cart_W, initialize_objects
 
 # Time setup
 dt = 0.01
-t_max = 30 # 30 seconds
+t_max = 45 # 45 seconds
 T = np.arange(0, t_max, dt)
 
 # Initial state 
